@@ -1,5 +1,3 @@
-title: GoFamExplore
-
 <p align="center">
   <img src="./assets/GoFamExplore-logo.png" alt="GoFamExplore logo" width="520">
 </p>

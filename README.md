@@ -2,7 +2,7 @@
   <img src="./assets/GoFamExplore-logo.png" alt="GoFamExplore logo" width="520">
 </p>
 
-<h1 align="center">GoFamExplore</h1>
+<h1 align="center">Welcome to GoFamExplore</h1>
 
 <p align="center">
   Family adventures, wingfoiling, mountain biking, and exploring the world together.

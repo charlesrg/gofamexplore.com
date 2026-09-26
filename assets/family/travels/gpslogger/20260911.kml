@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2026-09-11T17:19:45.000Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2026-09-11T17:19:45.000Z</when>
+<gx:coord>-121.53188583333333 45.698545333333335 0.0</gx:coord>
+
+<when>2026-09-11T17:19:56.000Z</when>
+<gx:coord>-121.53195666666667 45.69843133333334 145.9</gx:coord>
+
+<when>2026-09-11T17:20:07.000Z</when>
+<gx:coord>-121.531929 45.698613666666674 160.6</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

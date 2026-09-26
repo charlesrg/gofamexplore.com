@@ -1,0 +1,30 @@
+{
+  "source": "assets/family/travels/pictures/",
+  "generatedFrom": "Embedded EXIF GPSInfo and DateTime fields",
+  "photos": [
+    {
+      "file": "assets/family/travels/pictures/IMG_4106.JPEG",
+      "latitude": 24.6273056,
+      "longitude": -82.8720333,
+      "captured": "2025:10:12 10:32:17"
+    },
+    {
+      "file": "assets/family/travels/pictures/IMG_7957.JPEG",
+      "latitude": 37.6224222,
+      "longitude": -112.1663972,
+      "captured": "2026:05:20 18:30:11"
+    },
+    {
+      "file": "assets/family/travels/pictures/IMG_9538.JPEG",
+      "latitude": 41.3735861,
+      "longitude": -124.0135944,
+      "captured": "2026:09:23 16:58:17"
+    },
+    {
+      "file": "assets/family/travels/pictures/IMG_9585.JPEG",
+      "latitude": 41.3737528,
+      "longitude": -124.01355,
+      "captured": "2026:09:23 17:43:36"
+    }
+  ]
+}

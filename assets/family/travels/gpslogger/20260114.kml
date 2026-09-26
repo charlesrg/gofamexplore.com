@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><name>2026-01-14T23:56:01.000Z</name>
+<Placemark>
+<gx:Track>
+
+<when>2026-01-14T23:56:01.000Z</when>
+<gx:coord>-109.98903666666665 24.053895333333337 0.0</gx:coord>
+
+<when>2026-01-14T23:56:46.000Z</when>
+<gx:coord>-109.98906216666667 24.053935499999998 1.9</gx:coord>
+
+<when>2026-01-14T23:57:19.000Z</when>
+<gx:coord>-109.98911533333333 24.053937333333337 8.9</gx:coord>
+
+<when>2026-01-15T00:02:06.000Z</when>
+<gx:coord>-109.98914616666667 24.053975999999995 7.6</gx:coord>
+
+<when>2026-01-15T00:06:01.000Z</when>
+<gx:coord>-109.98919366666665 24.053956166666662 15.9</gx:coord>
+
+<when>2026-01-15T00:09:19.000Z</when>
+<gx:coord>-109.98914199999999 24.053970333333336 4.2</gx:coord>
+
+<when>2026-01-15T00:14:38.000Z</when>
+<gx:coord>-109.98914816666665 24.0540175 3.0</gx:coord>
+
+<when>2026-01-15T00:31:39.000Z</when>
+<gx:coord>-109.98918683333335 24.053989 7.6</gx:coord>
+
+<when>2026-01-15T00:42:28.000Z</when>
+<gx:coord>-109.98913433333334 24.05396766666667 4.1</gx:coord>
+
+<when>2026-01-15T00:49:59.000Z</when>
+<gx:coord>-109.98917883333334 24.05399 10.1</gx:coord>
+</gx:Track>
+</Placemark></Document></kml>

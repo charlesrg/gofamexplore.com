@@ -45,6 +45,11 @@ img { max-width: 100%; display: block; }
 .map-note { padding: 14px 18px; color: var(--muted); font: .9rem 'Trebuchet MS', sans-serif; }
 .gallery { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
 .gallery img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; }
+.lightbox[hidden] { display: none; }
+.lightbox { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; padding: 32px; background: rgba(13, 23, 30, .88); cursor: zoom-out; }
+.lightbox-image { max-width: min(1100px, 94vw); max-height: 88vh; width: auto; height: auto; object-fit: contain; border-radius: 6px; box-shadow: 0 20px 70px rgba(0, 0, 0, .45); }
+.lightbox-close { position: absolute; top: 18px; right: 22px; width: 44px; height: 44px; border: 0; border-radius: 50%; color: var(--white); background: rgba(255, 255, 255, .14); font: 2rem/1 Georgia, serif; cursor: pointer; }
+.lightbox-close:hover { background: rgba(255, 255, 255, .28); }
 .pending { border-left: 4px solid var(--gold); background: #fffaf0; padding: 18px 20px; color: #5c4a20; }
 .footer { padding: 32px 0; border-top: 1px solid var(--line); color: var(--muted); font: .85rem 'Trebuchet MS', sans-serif; }
 @media (max-width: 760px) {
@@ -55,4 +60,5 @@ img { max-width: 100%; display: block; }
   .grid, .event { grid-template-columns: 1fr; }
   .gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .section { padding: 52px 0; }
+  .lightbox { padding: 18px; }
 }
